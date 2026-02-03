@@ -94,7 +94,7 @@ header {
     justify-content: center;
     text-align: center;
     flex-direction: column;
-    background-image: url(/assets/hero-bg.png);
+    background-image: url(../../assets/hero-bg.png);
     background-repeat: no-repeat;
     padding: 150px 40px;
 
